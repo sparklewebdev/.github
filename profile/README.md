@@ -52,14 +52,15 @@
 - TFS
 
 💹 **Types of Domains or Industries :**
-- Health
-- Logistics
-- Ecommerce
-- Real Estate
-- Insurance
-- CRM
-- Healthy Life
-- Education
+- 🧑‍⚕️Health
+- 🧊 Logistics
+- 💰 Finance
+- 🛒 Ecommerce
+- 👷 Real Estate
+- 🩸 Insurance
+- ⚙️ CRM
+- 🏃 Healthy Life
+- 📒 Education
 - SAAS product
 
 📝 Write to us to discuss your project. We offer a free consultation service and recommend technologies for your project upon ☎ Call or 💬 Invitation.
